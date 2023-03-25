@@ -9,7 +9,7 @@ Open a terminal.
 Write " make ordi" on the terminal.
 
 
-##How to use the user interface ?
+## How to use the user interface ?
 Drag and drop the quantum gates on the circuit's line that corresponds to the quibit. Just like the IBM quantum composer. 
 Right click on a quantum gate on circuit line to delete it. 
 Push on the "plus" button to add a quibit. Push on the "minus" button to remove a quibit. 
