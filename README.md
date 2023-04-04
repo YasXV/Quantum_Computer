@@ -3,7 +3,7 @@ A simpler version of the IBM quantum composer (with a user interface), using obj
 The libraries that are mostly used are boost and SFML (for the user interface).
 
 ## How to run the code ? 
-Download all the directories. Keeping up the sae structure. 
+Download all the directories. Keeping up the same structure. 
 Place yourself in the "fichiers_cpp" directory. 
 Open a terminal.
 Write " make ordi" on the terminal.
