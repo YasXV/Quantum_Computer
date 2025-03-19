@@ -15,4 +15,4 @@ Right click on a quantum gate on circuit line to delete it.
 Push on the "plus" button to add a quibit. Push on the "minus" button to remove a quibit. 
 
 
-Have fun building your own quantum circuits. 
+Have fun building your own quantum circuits {^=^}. 
